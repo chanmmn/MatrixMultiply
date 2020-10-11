@@ -1,0 +1,10 @@
+D:\dev1\ConAppMath\ConAppMath\bin\Debug\ConAppMath.exe.config
+D:\dev1\ConAppMath\ConAppMath\bin\Debug\ConAppMath.exe
+D:\dev1\ConAppMath\ConAppMath\bin\Debug\ConAppMath.pdb
+D:\dev1\ConAppMath\ConAppMath\bin\Debug\MathNet.Numerics.dll
+D:\dev1\ConAppMath\ConAppMath\bin\Debug\MathNet.Numerics.xml
+D:\dev1\ConAppMath\ConAppMath\obj\Debug\ConAppMath.csprojAssemblyReference.cache
+D:\dev1\ConAppMath\ConAppMath\obj\Debug\ConAppMath.csproj.CoreCompileInputs.cache
+D:\dev1\ConAppMath\ConAppMath\obj\Debug\ConAppMath.csproj.CopyComplete
+D:\dev1\ConAppMath\ConAppMath\obj\Debug\ConAppMath.exe
+D:\dev1\ConAppMath\ConAppMath\obj\Debug\ConAppMath.pdb
